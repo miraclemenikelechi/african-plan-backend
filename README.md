@@ -1,3 +1,3 @@
 # african-plan-backend
- repository for backend lectures taught in african plan foundation
+ thank you african plan foundation
  @miraclemenikelechi
